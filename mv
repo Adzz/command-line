@@ -1,0 +1,29 @@
+MV 
+
+As in MOVE
+
+Like Jagger. Can you guess what it does? (It moves)
+
+format:
+
+mv [switch(s)] [file to be moved] [destination] 
+
+Also effectively renames things, because they are sort of the same thing.
+
+Important switches: 
+
+-b = Backup backup coz it's on. 
+      makes backup of each file that would be overwritten or removed
+      
+-f = Force
+
+-i = Interactive
+      prompts prompt and more prompts
+
+-S = Suffix
+      append a marker to the files made fom the b switch.
+
+-v = Verbose
+
+-n = don't overwrite
+
