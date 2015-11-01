@@ -1,0 +1,10 @@
+grep
+
+I have no idea why it's called grep
+
+searches for the hero inside yourself.
+
+syntax (roughly):
+
+grep [switches] ["pattern to match"] [file to grep] [additional options like -print]
+
