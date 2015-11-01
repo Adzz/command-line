@@ -1,0 +1,20 @@
+wc
+
+is for Word Count. Word.
+
+most important thing is the order of the output:
+
+WORD LINE CHARACTER BYTE
+
+Switches like so:
+
+-w => WORD
+-l => LINE
+-m => CHARACTERS
+-c => BYTES
+
+they all overwrite each other. 
+
+Syntax:
+
+wc [switch] [file]
